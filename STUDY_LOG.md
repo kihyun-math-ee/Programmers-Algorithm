@@ -8,3 +8,4 @@ This is the chronological Study Log for my [Programmers Algorithm Archive](READM
 | 2026-11-14 | Implementation | 17681 | Decoded each encoded row through repeated modulo and integer division, combined the two Boolean maps cell by cell, and preserved caller inputs by working on copies. |
 | 2026-11-15 | Implementation | 67256 | Mapped keys to grid coordinates, tracked both thumb positions, and chose middle-column keys by Manhattan distance with a handedness tie-break. |
 | 2026-11-16 | Strings | 81301 | Scanned a mixed string of digits and English number words, accumulated letters until a dictionary match, and converted each matched word to its digit before returning the decoded integer. |
+| 2026-11-17 | Sorting | 42889 | Counted users at each stage with list.count, tracked the remaining users to calculate failure rates, and assigned zero to stages with no reached users. Sorted by descending failure rate and ascending stage number to resolve ties. |
