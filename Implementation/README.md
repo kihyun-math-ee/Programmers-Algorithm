@@ -1,6 +1,6 @@
 # Implementation
 
-This folder contains 2 Programmers solution files. Dates are archive dates, not necessarily original solve dates.
+This folder contains 3 Programmers solution files. Dates are archive dates, not necessarily original solve dates.
 
 ## 📅 Study Log
 
@@ -8,3 +8,4 @@ This folder contains 2 Programmers solution files. Dates are archive dates, not 
 | :--- | :--- | :--- | :--- |
 | 2026-11-14 | Implementation | 17681 | Decoded each encoded row through repeated modulo and integer division, combined the two Boolean maps cell by cell, and preserved caller inputs by working on copies. |
 | 2026-11-15 | Implementation | 67256 | Mapped keys to grid coordinates, tracked both thumb positions, and chose middle-column keys by Manhattan distance with a handedness tie-break. |
+| 2026-11-18 | Implementation | 12906 | Removed consecutive duplicate digits in a single pass by tracking the previous value and appending changes to a result list. Preserved the original order and retained repeated values when separated by other digits in O(N) time. |
